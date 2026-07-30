@@ -2,14 +2,15 @@
 
 ### Data Engineer | Python | SQL | AWS
 
-I'm a Data Engineer passionate about building reliable data pipelines,
-working with cloud technologies, and turning data into useful insights.
 
-- 🔭 Currently working on Data Engineering projects
-- 🌱 Currently learning AWS and modern Data Engineering tools
-- 🐍 Working with Python & SQL
-- ☁️ Exploring cloud-based data platforms
-- 💡 Interested in data pipelines, automation & scalable systems
+👨‍💻 I'm a Data Engineer who enjoys turning data into reliable, useful solutions.
+
+🧘 Outside of work, I enjoy:
+
+🗺️ ✈️  Going out and finding out
+🛠️ 🧑‍🔧 Building & creating things
+🍳 Cooking
+🏠 DIY home projects and making things better
 
 ---
 
@@ -19,11 +20,13 @@ working with cloud technologies, and turning data into useful insights.
 
 ### 💻 Languages & Data Processing
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Python · Pandas · Advanced SQL · Data Transformation · ETL/ELT**
+**Python · Pandas · Advanced SQL · Apache Spark · PySpark · Data Transformation · ETL/ELT**
 
 ### ☁️ AWS & Data Engineering
 
