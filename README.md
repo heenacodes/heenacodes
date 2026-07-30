@@ -2,17 +2,14 @@
 
 ### Data Engineer | Python | SQL | AWS
 
-
 👨‍💻 I'm a Data Engineer who enjoys turning data into reliable, useful solutions.
 
 🧘 Outside of work, I enjoy:
 
-🗺️ ✈️  Going out and finding out
-🛠️ 🧑‍🔧 Building & creating things
-🍳 Cooking
+🗺️ ✈️ Going out and finding out  
+🛠️ 🧑‍🔧 Building & creating things  
+🍳 Cooking  
 🏠 DIY home projects and making things better
-
----
 
 ---
 
