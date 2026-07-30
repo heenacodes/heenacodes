@@ -65,3 +65,13 @@ working with cloud technologies, and turning data into useful insights.
 - 🚀 Advanced CI/CD for Data Engineering
 - ☁️ AWS Data Engineering architecture
 - 📊 Data platform design & optimization
+
+- ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heenacodes&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heenacodes&layout=compact&hide_border=true" height="170"/>
+</p>
+
