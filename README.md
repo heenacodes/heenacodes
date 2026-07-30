@@ -23,7 +23,7 @@
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Python · Pandas · Advanced SQL · Apache Spark · PySpark · Data Transformation · ETL/ELT · JUPYTER**
+**Python · Pandas · Advanced SQL · Apache Spark · PySpark · Data Transformation · ETL/ELT · Jupyter**
 
 ### ☁️ AWS & Data Engineering
 
