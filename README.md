@@ -57,10 +57,11 @@ working with cloud technologies, and turning data into useful insights.
 
 **Git · GitHub · GitHub Actions · Linux · CI/CD · Automation**
 
+---
+
 ## 📚 Currently Exploring
 
-* ☁️ Advanced AWS Data Engineering
-* 🔧 dbt & modern ELT practices
-* ⚙️ Data pipeline orchestration & automation
-* 🚀 CI/CD for Data Engineering
-
+- 🔧 dbt & modern ELT practices
+- 🚀 Advanced CI/CD for Data Engineering
+- ☁️ AWS Data Engineering architecture
+- 📊 Data platform design & optimization
