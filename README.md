@@ -8,8 +8,9 @@
 
 🗺️ ✈️ Going out and finding out  
 🛠️ 🧑‍🔧 Building & creating things  
-🍳 Cooking  
-🏠 DIY home projects and making things better
+🍳    Cooking  
+🏠    DIY home projects and making things better
+🌊 🤿 scuba diving, freediving, swimming, paddle boarding - basically Anything and everything water related
 
 ---
 
