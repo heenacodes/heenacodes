@@ -68,7 +68,7 @@
 ---
 ---
 
-## 🟡 Pac-Man Contribution Graph
+## 🟡 PacMan eating my contributions
 
 <p align="center">
   <picture>
